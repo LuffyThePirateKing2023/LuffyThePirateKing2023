@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋!<br>My name is James Kevin Garciano and I'm a web developer, from Philippines
+Hi there 👋!<br>My name is James Kevin Garciano and I'm a Full-Stack developer, from Philippines
 
 
 # 💻 Tech Stack:
